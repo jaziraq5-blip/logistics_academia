@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "redirects": [
+    { "source": "/،", "destination": "/", "permanent": true },
+    { "source": "/%D8%8C", "destination": "/", "permanent": true }
+  ]
+}
